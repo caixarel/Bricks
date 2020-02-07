@@ -1,3 +1,3 @@
 # Bricks
 Arkanoid style game
-https://youtu.be/x6gYhL20-I8
+https://youtu.be/-DCrKPuzUZk
